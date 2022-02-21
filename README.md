@@ -5,7 +5,7 @@ Angular Routing Hello world
   ### Import the AppRoutingModule into AppModule and add it to the imports array.
   import {AppRoutingModule} from './app-routing.module';
   
-#### 2, app-routing.module.ts  will be created automatically as par of new application contains below code 
+#### 2, app-routing.module.ts  will be created automatically as part of new application contains below code 
 
 ```
 import { NgModule } from '@angular/core';
